@@ -1,6 +1,6 @@
-// Author
-// Version
-// Update on
+// Author: Peter
+// Version: V0.0.1
+// Update on: 01-OCT-2022
 
 module hello;
   initial 
